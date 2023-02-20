@@ -780,12 +780,13 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
-    Build: 0
+    Build: 1
     Collab: 0
-    Game Performance: 0
-    Purchasing: 0
+    Game Performance: 1
+    Legacy Analytics: 1
+    Purchasing: 1
     UDP: 0
-    Unity Ads: 0
+    Unity Ads: 1
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -802,7 +803,7 @@ PlayerSettings:
   cloudProjectId: 0fae6b38-ecc1-4e27-85e1-c5ee3a8cfe43
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Gift for Mixail P
+  projectName: Little House
   organizationId: scadl
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
